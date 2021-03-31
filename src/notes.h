@@ -1,0 +1,97 @@
+#ifndef NOTES_H
+#define NOTES_H
+
+#include <avr/io.h>
+
+#define NOTE_OFF 0
+#define A0 1
+#define A0SHARP 2
+#define B0 3
+#define C1 4
+#define C1SHARP 5
+#define D1 6
+#define D1SHARP 7
+#define E1 8
+#define F1 9
+#define F1SHARP 10
+#define G1 11
+#define G1SHARP 12
+#define A1 13
+#define A1SHARP 14
+#define B1 15
+#define C2 16
+#define C2SHARP 17
+#define D2 18
+#define D2SHARP 19
+#define E2 20
+#define F2 21
+#define F2SHARP 22
+#define G2 23
+#define G2SHARP 24
+#define A2 25
+#define A2SHARP 26
+#define B2 27
+#define C3 28
+#define C3SHARP 29
+#define D3 30
+#define D3SHARP 31
+#define E3 32
+#define F3 33
+#define F3SHARP 34
+#define G3 35
+#define G3SHARP 36
+#define A3 37
+#define A3SHARP 38
+#define B3 39
+#define C4 40
+#define C4SHARP 41
+#define D4 42
+#define D4SHARP 43
+#define E4 44
+#define F4 45
+#define F4SHARP 46
+#define G4 47
+#define G4SHARP 48
+#define A4 49
+#define A4SHARP 50
+#define B4 51
+#define C5 52
+#define C5SHARP 53
+#define D5 54
+#define D5SHARP 55
+#define E5 56
+#define F5 57
+#define F5SHARP 58
+#define G5 59
+#define G5SHARP 60
+#define A5 61
+#define A5SHARP 62
+#define B5 63
+#define C6 64
+#define C6SHARP 65
+#define D6 66
+#define D6SHARP 67
+#define E6 68
+#define F6 69
+#define F6SHARP 70
+#define G6 71
+#define G6SHARP 72
+#define A6 73
+#define A6SHARP 74
+#define B6 75
+#define C7 76
+#define C7SHARP 77
+#define D7 78
+#define D7SHARP 79
+#define E7 80
+#define F7 81
+#define F7SHARP 82
+#define G7 83
+#define G7SHARP 84
+#define A7 85
+#define A7SHARP 86
+#define B7 87
+#define C8 88
+
+extern const uint16_t notes_lut[];
+#endif

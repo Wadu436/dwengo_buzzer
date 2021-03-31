@@ -1,0 +1,220 @@
+Requested BPM: 30
+Actual BM: 30.017289959016395
+Top: 243, Tick: 4
+
+Requested BPM: 35
+Actual BM: 35.044108851674636
+Top: 208, Tick: 4
+
+Requested BPM: 40
+Actual BM: 40.02305327868852
+Top: 243, Tick: 3
+
+Requested BPM: 45
+Actual BM: 45.0028801843318
+Top: 216, Tick: 3
+
+Requested BPM: 50
+Actual BM: 50.080128205128204
+Top: 194, Tick: 3
+
+Requested BPM: 55
+Actual BM: 54.86306179775281
+Top: 177, Tick: 3
+
+Requested BPM: 60
+Actual BM: 60.03457991803279
+Top: 243, Tick: 2
+
+Requested BPM: 65
+Actual BM: 65.10416666666667
+Top: 224, Tick: 2
+
+Requested BPM: 70
+Actual BM: 70.08821770334927
+Top: 208, Tick: 2
+
+Requested BPM: 75
+Actual BM: 75.1201923076923
+Top: 194, Tick: 2
+
+Requested BPM: 80
+Actual BM: 80.04610655737704
+Top: 182, Tick: 2
+
+Requested BPM: 85
+Actual BM: 85.16533430232558
+Top: 171, Tick: 2
+
+Requested BPM: 90
+Actual BM: 89.86771472392638
+Top: 162, Tick: 2
+
+Requested BPM: 95
+Actual BM: 95.11972402597402
+Top: 153, Tick: 2
+
+Requested BPM: 100
+Actual BM: 100.33176369863014
+Top: 145, Tick: 2
+
+Requested BPM: 105
+Actual BM: 104.63169642857144
+Top: 139, Tick: 2
+
+Requested BPM: 110
+Actual BM: 110.13862781954887
+Top: 132, Tick: 2
+
+Requested BPM: 115
+Actual BM: 114.88970588235293
+Top: 254, Tick: 1
+
+Requested BPM: 120
+Actual BM: 120.06915983606558
+Top: 243, Tick: 1
+
+Requested BPM: 125
+Actual BM: 125.20032051282051
+Top: 233, Tick: 1
+
+Requested BPM: 130
+Actual BM: 130.20833333333334
+Top: 224, Tick: 1
+
+Requested BPM: 135
+Actual BM: 135.0086405529954
+Top: 216, Tick: 1
+
+Requested BPM: 140
+Actual BM: 140.17643540669854
+Top: 208, Tick: 1
+
+Requested BPM: 145
+Actual BM: 145.03403465346534
+Top: 201, Tick: 1
+
+Requested BPM: 150
+Actual BM: 150.2403846153846
+Top: 194, Tick: 1
+
+Requested BPM: 155
+Actual BM: 155.00992063492063
+Top: 188, Tick: 1
+
+Requested BPM: 160
+Actual BM: 160.0922131147541
+Top: 182, Tick: 1
+
+Requested BPM: 165
+Actual BM: 164.58918539325845
+Top: 177, Tick: 1
+
+Requested BPM: 170
+Actual BM: 170.33066860465115
+Top: 171, Tick: 1
+
+Requested BPM: 175
+Actual BM: 175.43038922155688
+Top: 166, Tick: 1
+
+Requested BPM: 180
+Actual BM: 179.73542944785277
+Top: 162, Tick: 1
+
+Requested BPM: 185
+Actual BM: 185.42325949367088
+Top: 157, Tick: 1
+
+Requested BPM: 190
+Actual BM: 190.23944805194805
+Top: 153, Tick: 1
+
+Requested BPM: 195
+Actual BM: 195.31250000000003
+Top: 149, Tick: 1
+
+Requested BPM: 200
+Actual BM: 200.66352739726028
+Top: 145, Tick: 1
+
+Requested BPM: 205
+Actual BM: 204.87325174825173
+Top: 142, Tick: 1
+
+Requested BPM: 210
+Actual BM: 209.2633928571429
+Top: 139, Tick: 1
+
+Requested BPM: 215
+Actual BM: 215.41819852941177
+Top: 135, Tick: 1
+
+Requested BPM: 220
+Actual BM: 220.27725563909775
+Top: 132, Tick: 1
+
+Requested BPM: 225
+Actual BM: 225.36057692307693
+Top: 129, Tick: 1
+
+Requested BPM: 230
+Actual BM: 230.68405511811025
+Top: 126, Tick: 1
+
+Requested BPM: 235
+Actual BM: 234.375
+Top: 124, Tick: 1
+
+Requested BPM: 240
+Actual BM: 240.13831967213116
+Top: 121, Tick: 1
+
+Requested BPM: 245
+Actual BM: 244.140625
+Top: 119, Tick: 1
+
+Requested BPM: 250
+Actual BM: 250.40064102564102
+Top: 116, Tick: 1
+
+Requested BPM: 255
+Actual BM: 254.7554347826087
+Top: 114, Tick: 1
+
+Requested BPM: 260
+Actual BM: 259.2643805309735
+Top: 112, Tick: 1
+
+Requested BPM: 265
+Actual BM: 263.93581081081084
+Top: 110, Tick: 1
+
+Requested BPM: 270
+Actual BM: 268.7786697247706
+Top: 108, Tick: 1
+
+Requested BPM: 275
+Actual BM: 273.802570093458
+Top: 106, Tick: 1
+
+Requested BPM: 280
+Actual BM: 279.0178571428571
+Top: 104, Tick: 1
+
+Requested BPM: 285
+Actual BM: 284.43567961165047
+Top: 102, Tick: 1
+
+Requested BPM: 290
+Actual BM: 290.0680693069307
+Top: 100, Tick: 1
+
+Requested BPM: 295
+Actual BM: 295.9280303030303
+Top: 98, Tick: 1
+
+Requested BPM: 300
+Actual BM: 298.94770408163265
+Top: 97, Tick: 1
+
